@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mp.RetrieveTest
--------------------------------------------------------------------------------
-Tests run: 26, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.552 s <<< FAILURE! - in com.mp.RetrieveTest
-selectMy(com.mp.RetrieveTest)  Time elapsed: 0.007 s  <<< ERROR!
-org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.mp.dao.UserMapper.selectAll
-	at com.mp.RetrieveTest.selectMy(RetrieveTest.java:315)
-
