@@ -1,6 +1,0 @@
-com/mp/configuration/MyBatisPlusConfig.class
-com/mp/entity/User.class
-com/mp/service/UserService.class
-com/mp/Application.class
-com/mp/service/impl/UserServiceImpl.class
-com/mp/dao/UserMapper.class
